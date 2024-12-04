@@ -1,0 +1,5 @@
+title: "Your Name - Bioinformatics Portfolio"
+description: "A showcase of bioinformatics projects and expertise"
+baseurl: "" # Leave blank if deploying to the root of a GitHub Pages repo
+url: "https://yourusername.github.io" # Your GitHub Pages URL
+theme: minima # Optional Jekyll theme, can be replaced with custom styling
